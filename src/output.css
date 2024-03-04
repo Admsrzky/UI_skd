@@ -1034,6 +1034,18 @@ video {
   margin-top: 150px;
 }
 
+.ml-\[20rem\] {
+  margin-left: 20rem;
+}
+
+.ml-\[10rem\] {
+  margin-left: 10rem;
+}
+
+.ml-\[13rem\] {
+  margin-left: 13rem;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -3843,6 +3855,10 @@ video {
 
   .md\:mt-8 {
     margin-top: 2rem;
+  }
+
+  .md\:ml-0 {
+    margin-left: 0px;
   }
 
   .md\:block {
