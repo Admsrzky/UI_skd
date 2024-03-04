@@ -706,6 +706,14 @@ video {
   top: 0.75rem;
 }
 
+.right-\[5\.5rem\] {
+  right: 5.5rem;
+}
+
+.right-\[6rem\] {
+  right: 6rem;
+}
+
 .isolate {
   isolation: isolate;
 }
