@@ -714,6 +714,10 @@ video {
   right: 6rem;
 }
 
+.right-\[7rem\] {
+  right: 7rem;
+}
+
 .isolate {
   isolation: isolate;
 }
